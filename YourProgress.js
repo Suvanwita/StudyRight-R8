@@ -1,0 +1,4 @@
+class YourProgress{
+    constructor(){}
+    display(){}
+}
